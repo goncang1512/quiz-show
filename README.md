@@ -1,8 +1,8 @@
 # 🧑‍💻 Identitas
 
 **Nama:** Muhammad Goncang Samudera Nasution  
-**NIM:** [Isi NIM Kamu]  
-**Lab:** [Isi Nama Lab Kamu]
+**NIM:** 231401111
+**Lab:** PM 6
 
 ---
 
