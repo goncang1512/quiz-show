@@ -19,9 +19,7 @@ class ButtonNext extends StatelessWidget {
         label: Text(
           "Selanjutnya",
           style: TextStyle(
-            color: selectedAnswer == null
-                ? const Color.fromARGB(255, 78, 78, 78)
-                : Colors.white,
+            color: Colors.white,
             fontWeight: FontWeight.w600,
           ),
         ),
